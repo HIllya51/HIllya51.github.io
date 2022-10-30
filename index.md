@@ -10,7 +10,7 @@
 
 **一款galgame翻译器**
 
-## <a href="./setsumei.md">使用说明</a> 
+## <a href="./setsumei.html">使用说明</a> 
  
 
 ## 功能支持
