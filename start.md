@@ -5,7 +5,7 @@
 
 ## 下载
 
-从<a href="https://github.com/HIllya51/LunaTranslator/releases">https://github.com/HIllya51/LunaTranslator/releases</a>的Assets获取最新下载链接
+从<a  target="_blank" href="https://github.com/HIllya51/LunaTranslator/releases">https://github.com/HIllya51/LunaTranslator/releases</a>的Assets获取最新下载链接
 下载LunaTranslator.zip文件
 解压到任意目录
 <div align="center"><img src='./docpics/download.jpg'></div>
