@@ -13,5 +13,6 @@ WindowsOCR需要操作系统中安装日语相关组件。
 
 设置“每隔一段时间必然进行一次OCR”后，设置OCR最长间隔时间，则每个x秒必然进行一个OCR，不管图片是否改变。
 
+[➔ 具体用法详见OCR说明](ocrsetsumei.md)
 
 <div align="center"><img src='./docpics/22.jpg'></div>

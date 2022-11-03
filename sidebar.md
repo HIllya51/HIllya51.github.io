@@ -19,6 +19,7 @@
   - [托盘图标](trayicon.md) 
 
 - OCR说明
-  
+  [OCR说明](ocrsetsumei.md) 
 
 - HOOK说明
+  [HOOK说明](hooksetsumei.md) 
