@@ -1,10 +1,10 @@
 
-## 工具栏
+# 工具栏
  
 >在软件有焦点的情况下在工具栏上悬停，可以看到有按钮的说明。
 >下面为从左到右的顺序逐个介绍按钮的功能
 
-### 通用按钮/剪贴板模式
+## 通用按钮/剪贴板模式
 
 <div align="center"><img src='./docpics/toolbar1.jpg'></div> 
 
@@ -39,7 +39,7 @@
 &emsp;&emsp;**退出**  按下这个按钮后，软件将会退出
 
 
-### OCR模式按钮
+## OCR模式按钮
 
 <div align="center"><img src='./docpics/toolbar2.jpg'></div> 
 
@@ -52,7 +52,7 @@
 &emsp;&emsp;**绑定截图窗口**  点击按钮，然后点击游戏窗口，该按钮会变成粉色，说明绑定成功。绑定窗口后即时翻译窗口和截图框重叠也不影响使用。点击按钮后点击翻译器本身，会取消绑定
 
 
-### HOOK模式按钮
+## HOOK模式按钮
 
 <div align="center"><img src='./docpics/toolbar3.jpg'></div> 
 

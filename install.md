@@ -1,5 +1,5 @@
  
-## 资源下载
+# 资源下载
  
 <table>
 <tr><td>辞书-MeCab</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.0/Mecab.zip">Mecab.zip</a></td></tr>
