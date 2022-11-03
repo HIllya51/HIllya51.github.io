@@ -1,18 +1,14 @@
+@import "https://haogeshuohuanihaohaoting.github.io/static/mdCreateMenu.js"
+
 # LunaTranslator 使用说明
-  
+
 <p align="left">
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-GPL%203.0-dfd.svg"></a>
     <a href="https://github.com/HIllya51/LunaTranslator/releases"><img src="https://img.shields.io/github/v/release/HIllya51/LunaTranslator?color=ffa"></a>
     <a href="https://github.com/HIllya51/LunaTranslator/stargazers"><img src="https://img.shields.io/github/stars/HIllya51/LunaTranslator?color=ccf"></a>
     <a id="downloadlink" href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.19.1/LunaTranslator.zip"><img src="https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-download-red"></a>
 </p> 
-
-<a href="#table1">功能支持</a>
-<a href="#table2">使用说明</a> 
-<a href="#table4">设置窗口</a>
-<a href="#table5">OCR说明</a>
-<a href="#table6">HOOK说明</a>
-
+ 
 <a id="table1"></a>
 
 ## 功能支持
