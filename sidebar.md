@@ -6,3 +6,4 @@
 - 使用 
   - [开始](start.md)
   - [工具栏](toolbar.md) 
+  - [托盘图标](trayicon.md) 
