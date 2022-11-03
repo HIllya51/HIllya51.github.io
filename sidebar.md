@@ -13,5 +13,7 @@
   - [显示设置](showset.md) 
   - [语音设置](voiceset.md) 
   - [翻译优化](transpreset.md) 
-  - [资源下载更新](refreshset.md) 
+  - [辞书设置](cishuset.md) 
+  - [资源下载更新](refreshset.md)   
+  - [快捷键设置](quickset.md) 
   - [托盘图标](trayicon.md) 
