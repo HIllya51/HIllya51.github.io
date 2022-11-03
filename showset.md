@@ -14,3 +14,18 @@
 
 
 <div align="center"><img src='./docpics/7.jpg'></div>
+
+四种字体样式如下
+
+<div align="center"><img src='./docpics/ziti1.jpg'></div>
+<div align="center"><img src='./docpics/ziti2.jpg'></div>
+<div align="center"><img src='./docpics/ziti3.jpg'></div>
+<div align="center"><img src='./docpics/ziti4.jpg'></div>
+
+假名显示如下
+
+<div align="center"><img src='./docpics/jiaming.jpg'></div>
+
+分词显示如下
+
+<div align="center"><img src='./docpics/fenci.jpg'></div>

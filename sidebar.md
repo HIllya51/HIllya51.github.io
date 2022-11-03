@@ -17,3 +17,8 @@
   - [资源下载更新](refreshset.md)   
   - [快捷键设置](quickset.md) 
   - [托盘图标](trayicon.md) 
+
+- OCR说明
+  
+
+- HOOK说明
