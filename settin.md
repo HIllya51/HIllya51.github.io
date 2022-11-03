@@ -7,6 +7,6 @@
 
 选择Textractor（HOOK）作为文本输入时，会弹出进程选择窗口，选择游戏后会弹出文本选择窗口。
 
-具体的后面令讲。
+默认是使用剪切板模型，此时会自动提取剪切板文本并进行翻译。
 
 <div align="center"><img src='./docpics/5.jpg'></div>
