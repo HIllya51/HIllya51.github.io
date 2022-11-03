@@ -4,4 +4,5 @@
   - [资源下载](install.md) 
 
 - 使用 
+  - [开始](start.md)
   - [工具栏](toolbar.md) 
