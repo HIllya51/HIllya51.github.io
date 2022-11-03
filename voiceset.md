@@ -2,8 +2,13 @@
   
 # 语音设置
 
+WindowsTTS需要操作系统中安装日语相关组件。
+
+AzureTTS和火山TTS是在线tts，未来可能失效。
+
+VoiceRoid2是离线翻译引擎。
+
+VOICEVOX是一个开源TTS引擎，但是生成语音速度较慢。
+
 <div align="center"><img src='./docpics/8.jpg'></div>
-
-一般情况下可能只有两种语音（中文ZH-CN和英文EN-US），日文JA-JP需要在系统的语言设置里面安装支持。
-
-<div align="center"><img src='./docpics/9.jpg'><br>语音选择</div>
+ 
