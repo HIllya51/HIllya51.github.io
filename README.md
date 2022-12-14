@@ -7,8 +7,7 @@
     <a href="https://github.com/HIllya51/LunaTranslator/stargazers"><img src="https://img.shields.io/github/stars/HIllya51/LunaTranslator?color=ccf"></a>
     <a id="downloadlink" href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.34.7/LunaTranslator.zip"><img src="https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-download-red"></a>
 </p> 
- 
-<a id="table1"></a>
+  
 
 ## 功能支持
 
