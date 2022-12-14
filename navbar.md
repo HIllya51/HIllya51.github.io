@@ -1,3 +1,4 @@
-- Language / 语言 
+- 语言 / Language 
   - [简体中文](/) 
   - [Русский язык](/ru/)
+  - [English](/en/)
