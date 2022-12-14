@@ -7,6 +7,7 @@
     <a id="downloadlink" href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.34.7/LunaTranslator.zip"><img src="https://img.shields.io/badge/download-%E4%B8%8B%E8%BD%BD-red"></a>
 </p>
  
+ 
 ## Основные функции:
 
 #### Источник текста
