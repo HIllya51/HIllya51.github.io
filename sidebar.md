@@ -1,7 +1,6 @@
 - 开始
 
-  - [简介](README.md)
-  - [资源下载](install.md) 
+  - [简介](README.md) 
 
 - 使用方法
   - [开始](start.md)
