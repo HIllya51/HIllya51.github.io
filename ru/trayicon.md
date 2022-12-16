@@ -2,7 +2,7 @@
 # Иконка на панели задач
 
 
-<div align="center"><img src='./docpics/trayicon_ru.png'></div> 
+<div align="center"><img src='./ru/trayicon_ru.png'></div> 
 
 Щелкните на значок левой кнопкой мыши, чтобы **отобразить окно программы**, щелкните еще раз, чтобы **скрыть его**.
 
