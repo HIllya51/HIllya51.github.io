@@ -1,14 +1,17 @@
 
-# Начало
+# 开始
+ 
+ 
 
-## Скачать
+## 下载
 
-Ссылка для загрузки актуальной версии программы: <a  target="_blank" href="https://github.com/HIllya51/LunaTranslator/releases">https://github.com/HIllya51/LunaTranslator/releases</a>
-Скачайте архив **LunaTranslator.zip** и распакуйте его в любое удобное для вас место.
-<div align="center"><img src='./ru/download_ru.png'></div>
+从<a  target="_blank" href="https://github.com/HIllya51/LunaTranslator/releases">https://github.com/HIllya51/LunaTranslator/releases</a>的Assets获取最新下载链接
+下载LunaTranslator.zip文件
+解压到任意目录
+<div align="center"><img src='./docpics/download.jpg'></div>
 
-## Запустить
+## 启动
 
-**LunaTranslator.exe** -- Запуск с правами администратора (Некоторые игры требуют прав администратора для привязки HOOK).
+**LunaTranslator.exe** 会以管理员权限启动，部分游戏需要管理员权限才能HOOK
 
-**LunaTranslator_no_Admin.exe** -- Запуск без прав администратора.
+**LunaTranslator_no_Admin.exe** 会以普通模式启动 
