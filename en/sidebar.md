@@ -1,18 +1,18 @@
-﻿- Начало
+﻿- Start
 
-  - [Введение](/ru/README.md)
+  - [Introduction](/en/README.md)
 
-- Инструкции
-  - [Первый запуск](/ru/start.md)
-  - [Панель инструментов](/ru/toolbar.md)
-  - [Основные настройки](/ru/settings.md)
-  - [Иконка на панели задач](/ru/trayicon.md)
+- Usage
+  - [Start](/en/start.md)
+  - [Toolbar](/en/toolbar.md)
+  - [Settings](/en/settings.md)
+  - [Tray icon](/en/trayicon.md)
 
-- OCR
-  - [Подробное описание OCR](/ru/ocrsetsumei.md)
+- OCR instructions
+  - [OCR instructions](/en/ocrsetsumei.md)
 
-- HOOK
-  - [Подробное описание HOOK](/ru/hooksetsumei.md)
+- HOOK instructions
+  - [HOOK instructions](/en/hooksetsumei.md)
   
-- Поддержать автора программы
-  - [Поддержать автора программы](/ru/support.md) 
+- Support author
+  - [Support author](/en/support.md) 

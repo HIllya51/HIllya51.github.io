@@ -1,4 +1,8 @@
+
  
-# Поддержать автора программы
+# Support author
  
-Если Вы считаете, что это программное обеспечение полезно для Вас, Вы можете проспонсировать меня на [Aidaifa](https://afdian.net/a/HIllya51). Спасибо за поддержку!
+If you feel that the software is helpful to you, you are welcome to scan WeChat code or go to [afdian](https://afdian.net/a/HIllya51) to sponsor. Thank you ~
+
+
+<img src='./docpics/zan.jpg' height=500 width=500>
